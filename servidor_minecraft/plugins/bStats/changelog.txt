@@ -1,0 +1,12 @@
+CustomCommands v4.3.0
+GCore v8.50.0
+
+Added :
+
+	- (GCore) Support for 1.21 and 1.20.6. [COLOR=#ff00ff]- this is a first version
+
+
+That's it! Please consider leaving a constructive review to the plugin.
+Make it a 5-star one if you're satisfied with the plugin and my work ! :D
+
+To get support, report bugs or suggest features : http://guillaumevdn.com/plugins/discord/

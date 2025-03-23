@@ -43,3 +43,5 @@
 [04:27:53] [Server thread/INFO]: [Fernando1929153: Set own game mode to Creative Mode]
 [04:45:54] [Server thread/INFO]: Fernando1929153 lost connection: Disconnected
 [04:45:54] [Server thread/INFO]: Fernando1929153 left the game
+[05:14:11] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[05:14:30] [Server thread/INFO]: Unknown command. Type "/help" for help.
